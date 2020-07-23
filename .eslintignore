@@ -1,0 +1,7 @@
+/build/
+/config/
+/node_modules/
+/dist/
+/gtmcAppH5/
+/*.js
+/test/unit/coverage/
