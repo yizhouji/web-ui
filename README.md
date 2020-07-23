@@ -1,13 +1,6 @@
-# gtmc-vue-h5
+# 壹周记
 
 > A Vue.js project
-
-Ui组件   vant Ui
-
-/view/agreement 协议内容相关
-/view/charge  我的充电桩相关
-/view/drivingScore  驾驶评分相关
-/view/yueEnjoys  丰云悦享小程序相关
 
 ## Build Setup
 
